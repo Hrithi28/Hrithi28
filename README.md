@@ -19,7 +19,7 @@ Email Me 👉 ✉️ **hrithistar@gmail.com** For Collaboration/Project or Anyth
 
   
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VJSmuyZRC) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hrithiway) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/S Hrithika) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32759763) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrithistar@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VJSmuyZRC) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hrithiway) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrithika-s-08ab09283) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32759763) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrithistar@gmail.com) 
 
 <!-- Snake Game Repo View -->
 

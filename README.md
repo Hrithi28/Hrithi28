@@ -1,4 +1,4 @@
-<img width="2125" height="575" alt="image" src="https://github.com/user-attachments/assets/cb4ed0b1-262e-41c2-af20-d3c3417748ce" />
+<img width="2125" height="575" alt="image" src="https://github.com/user-attachments/assets/3ae26a20-8bc0-460c-8101-19a04a96bb03" />
 
 
 # 💫 Hi 👋, I'm Hrithika S

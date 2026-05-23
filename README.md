@@ -4,13 +4,13 @@ Learning Cloud and DevOps
 
 Email Me 👉 ✉️ **hrithistar@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:** Realtime Projects
+- 🌱 **I’m currently learning:** GenAI
+- 👯 **I’m looking to collaborate on:** AI/ML or Full Stack projects
+- 🤔 **I’m looking for help with:** DevOps/ Cloud Projects
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 📫 **How to reach me:** 10c.12.s.hrithika@gmail.com
+- 😄 **Pronouns:** She/ Her
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
   

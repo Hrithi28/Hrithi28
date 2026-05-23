@@ -1,6 +1,10 @@
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/137c55af-9305-4ad8-8016-01e2d62f846c" />
+
 # 💫 Hi 👋, I'm Hrithika S
 **A passionate AI/ML Engineer || Full Stack Engineerc || GenAI **
 Learning Cloud and DevOps
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 Email Me 👉 ✉️ **hrithistar@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 

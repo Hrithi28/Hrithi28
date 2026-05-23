@@ -1,4 +1,5 @@
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/137c55af-9305-4ad8-8016-01e2d62f846c" />
+<img width="2125" height="575" alt="image" src="https://github.com/user-attachments/assets/cb4ed0b1-262e-41c2-af20-d3c3417748ce" />
+
 
 # 💫 Hi 👋, I'm Hrithika S
 **A passionate AI/ML Engineer || Full Stack Engineerc || GenAI **
